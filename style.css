@@ -75,8 +75,8 @@ h1 {
     }
 
     .score {
-        font-size: 24px;
-        gap: 10px;
+        font-size: 20px;
+        gap: 8px;
     }
 
     .show-winner {
